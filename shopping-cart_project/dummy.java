@@ -1,1 +1,0 @@
-system.out.println("Succesfully created the shopping-cart project")
